@@ -1,0 +1,9 @@
+{
+    "policyId": "6f69a35a962c154bab4f2de4d9e116043697c333ade763c2b46fce6e",
+    "name": "AADA",
+    "symbol": "AADA",
+    "website": "https://aada.finance/",
+    "description": "DeFi lending protocol built on top of powerful and safe Cardano smart contracts. Simply put – Aada is crypto assets lending platform. Smart contract allows to deposit assets and collect interests or borrow assets and perform financial actions.",
+    "totalSupply": 35750000,
+    "amounts": [1, 10, 100, 1000, 10000, 100000]
+}
