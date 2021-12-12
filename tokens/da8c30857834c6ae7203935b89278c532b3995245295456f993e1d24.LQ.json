@@ -1,0 +1,9 @@
+{
+    "policyId": "da8c30857834c6ae7203935b89278c532b3995245295456f993e1d24",
+    "name": "Liqwid",
+    "symbol": "LQ",
+    "website": "https://liqwid.finance/",
+    "description": "Liqwid is an open source, algorithmic and non-custodial interest rate protocol built for lenders, borrowers and developers. Users can securely earn interest on deposits and borrow assets with ease while earning yield on ADA from four yield streams.",
+    "totalSupply": 21000000,
+    "amounts": [1, , 5, 10, 50, 100, 500, 1000]
+}
